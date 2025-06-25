@@ -27,7 +27,7 @@ Este projeto possui:
 
 ## 📥 Instalação e Setup
 
-Clone o repositório e instale os requisitos:
+Caso queira testa na sua maquina:
 
 ```bash
 git clone https://github.com/seu-usuario/healthcare-statistics-analysis.git
